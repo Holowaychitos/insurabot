@@ -1,0 +1,3 @@
+rootProject.name = 'NativeInsurance'
+
+include ':app'
